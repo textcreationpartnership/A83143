@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords &amp; Commons assembled in Parliament for taking, stating and determining the accompts of all such officers and soldiers, or widows of the said officers and soldiers that have served the Parliament in the late wars, and have not been under the entertainment and pay of the particular counties or associations of this kingdom, nor are of the present army under the command of Thomas Lord Fairfax. Die Veneris, 1 Septembr. 1648. Ordered by the Commons assembled in Parliament, ... passed both Houses on Thursday 20 Julii, 1648. be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83143</idno>
+            <idno type="STC">Wing E1932</idno>
+            <idno type="STC">Thomason E461_31</idno>
+            <idno type="STC">ESTC R205195</idno>
+            <idno type="EEBO-CITATION">99897360</idno>
+            <idno type="PROQUEST">99897360</idno>
+            <idno type="VID">132716</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83143)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132716)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2497:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords &amp; Commons assembled in Parliament for taking, stating and determining the accompts of all such officers and soldiers, or widows of the said officers and soldiers that have served the Parliament in the late wars, and have not been under the entertainment and pay of the particular counties or associations of this kingdom, nor are of the present army under the command of Thomas Lord Fairfax. Die Veneris, 1 Septembr. 1648. Ordered by the Commons assembled in Parliament, ... passed both Houses on Thursday 20 Julii, 1648. be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Edward Husband, printer to the honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septemb. 5. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132716:1"/>
+            <p>AN ORDINANCE OF THE <hi>LORDS</hi> &amp; <hi>COMMONS</hi> Aſſembled in PARLIAMENT, For taking, ſtating and determining the ACCOMPTS of all ſuch Officers and Soldiers, or Widows of the ſaid Of<g ref="char:EOLhyphen"/>ficers and Soldiers that have ſerved the Parliament in the late Wars, and have not been under the Entertainment and Pay of the particular Counties or Aſſociations of this Kingdom, nor are of the preſent Army under the Command of <hi>Thomas</hi> Lord <hi>Fairfax.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Veneris, 1 Septembr. 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons aſſembled in Parliament, That the Ordinance for taking, ſtating and determining the Ac<g ref="char:EOLhyphen"/>compts of all ſuch Officers and Soldiers, or Widows of the ſaid Officers and Soldiers, that have ſerved the Parliament in the late Wars, and have not been under the Entertainment and Pay of the particular Counties or Aſſociations of this Kingdom, nor are of the preſent Army under the Command of <hi>Thomas</hi> Lord<hi>Fairfax,</hi> paſſed both Houſes on Thurſday 20 <hi>Julii,</hi> 1648. be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Honorable Houſe of Commons, <hi>Septemb.</hi> 5. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb facs="tcp:132716:2"/>
+            <pb n="3" facs="tcp:132716:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Jovis, 20 Julii, 1648.</date>
+               </dateline>
+            </opener>
+            <argument>
+               <p>An Ordinance of the Lords and Commons aſſembled in Parliament, For taking, ſtating and determining the Accompts of all ſuch Officers and Soldiers, or Widows of the ſaid Officers and Soldiers that have ſerved the Parliament in the late Wars, and have not been under the Entertainment and Pay of the particular Counties or Aſ<g ref="char:EOLhyphen"/>ſociations of this Kingdom, nor are of the preſent Army under the Command of <hi>Thomas</hi> Lord <hi>Fairfax.</hi>
+               </p>
+            </argument>
+            <p>
+               <seg rend="decorInit">B</seg>E it Ordained, and it is Or<g ref="char:EOLhyphen"/>dained by the Lords and Com<g ref="char:EOLhyphen"/>mons aſſembled in <hi>Parliament,</hi> That <hi>Henry Broad, Richard Wilcox, Ni<g ref="char:EOLhyphen"/>cholas Bond, James Prince,</hi> and <hi>Thomas Richardſon,</hi> ſhall be a Committee for taking, examining, allowing and de<g ref="char:EOLhyphen"/>termining the Accompts of all ſuch Officers, Soldiers, Artificers and
+<pb n="4" facs="tcp:132716:3"/>Waggoners, and of all Officers and Soldiers that have ſerved the Par<g ref="char:EOLhyphen"/>liament in the late Wars, and have not been under the Entertainment and pay of the particular Counties and Aſſociations of this Kingdom, or of the preſent Army under the Lord <hi>Fairfax,</hi> as well for their pay, as for the Money and Goods they have received from the State, or from any perſon or perſons during the time of their Services, in order to their pay, or the Service of the Parliament, and for which they ought to be ac<g ref="char:EOLhyphen"/>comptable; which ſaid Committee hereby Ordained, or any three of them ſhall have power, and are here<g ref="char:EOLhyphen"/>by authorized and required to take, examine, allow and determine the Accompts of the ſaid Officers and Soldiers, as well for their pay, as for the Money and Goods they have re<g ref="char:EOLhyphen"/>ceived from the State, or from any perſon whatſoever, during the time of their Services, in order to their
+<pb n="5" facs="tcp:132716:3"/>pay, or the Service of the Parlia<g ref="char:EOLhyphen"/>ment, according to an Ordinance of the Eight and twentieth of <hi>May,</hi> One thouſand ſix hundred forty and ſeven, and the Inſtructions therein men<g ref="char:EOLhyphen"/>tioned, intituled, <hi>Inſtructions agreed up<g ref="char:EOLhyphen"/>on by the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment aſſembled, to be obſerved in taking, ex<g ref="char:EOLhyphen"/>amining and determining the Accompts of all Officers and Soldiers who have actually and faithfully ſerved under their Command in the Kingdom of <hi>England</hi> and Dominion of <hi>Wales,</hi> from or ſince the beginning of theſe Wars</hi> (Any former Order or Or<g ref="char:EOLhyphen"/>dinance of both or either Houſe of Parliament concerning the taking and determining the Accompts of the Soldiery of this Kingdom and Do<g ref="char:EOLhyphen"/>minion of <hi>Wales,</hi> under the command of the Parliament, or any clauſe therein contained to the contrary thereof in any wiſe notwithſtanding) And that every Member of the ſaid Committee hereby Ordained, before he enter upon the ſaid Service, ſhall
+<pb n="6" facs="tcp:132716:4"/>take an Oath before the Speaker for the time being of either of the ſaid Houſes, for the due execution thereof; Which Oath the ſeveral Speakers for the time being of both the ſaid Houſes ſhall have power, and are hereby authorized to adminiſter, The tenor whereof ſhall be as follow<g ref="char:EOLhyphen"/>eth; <hi>Viz.</hi>
+            </p>
+            <p>
+               <q>
+                  <hi>I <hi>A.B.</hi> do ſwear, That according to my beſt skill and knowledge, I ſhall faithfully and truly demean my ſelf in taking, ſtating and determining the Accompts of all ſuch perſons as ſhall come before me, in execution of an Ordinance of both Houſes of Parliament, intituled, <hi>An Ordinance of the Lords and Commons aſſembled in Parliament, For taking, ſtating and de<g ref="char:EOLhyphen"/>termining the Accompts of all ſuch Officers and Sol<g ref="char:EOLhyphen"/>diers, or Widows of the ſaid Officers and Soldiers that have ſerved the Parliament in the late Wars, and have not been under the Entertainment and Pay of the particular Counties or Aſſociations of this Kingdom, nor are of the preſent Army under the Command of</hi> THOMAS <hi>Lord</hi> FAIRFAX,
+<pb n="7" facs="tcp:132716:4"/>according to the tenor of the ſaid Ordinance, and the Inſtructions therein mentioned; And that I ſhall not for fear, favor, reward or af<g ref="char:EOLhyphen"/>fection, give any allowance, or conceal, ſpare or diſcharge any, nor receive or take directly or indirectly, by my ſelf, or by any other to my uſe, any Fee, Reward or Gratuity whatſo<g ref="char:EOLhyphen"/>ever, from any perſon or perſons concerned as Accomptants by this Ordinance, nor any Profit or Advantage whatſoever, other then that Salary appointed by the Parliament, and expreſſed in an Ordinance of the date of theſe preſents: So help me God.</hi>
+               </q>
+            </p>
+            <p>And the ſaid Committee ſhall have power, and are hereby authorized and required, by Warrant under their Hands, or the Hands of any three or more of them, to ſend for, and require from all Muſter-Maſters, Commiſ<g ref="char:EOLhyphen"/>ſaries, Treaſurers, Receivers, Pay<g ref="char:EOLhyphen"/>maſters, and all other Officers and perſons whatſoever, that have paid any Money, or have been intruſted and imployed in any Army, Brigade,
+<pb n="8" facs="tcp:132716:5"/>County or Gariſon, or otherwiſe un<g ref="char:EOLhyphen"/>der the command of the Parliament, or have paid any Money by Order or Directions of one or both Houſes of Parliament, or by any Committee or Committees of Parliament, All Books of Muſters, Payments, Ac<g ref="char:EOLhyphen"/>compts, Liſts, upon which payments of Arrears in part have been or are to be made, or authentick copies there<g ref="char:EOLhyphen"/>of under their Hands (and upon their Oathes to be adminiſtred by the ſaid Committee, or any two of them, which they have hereby power and authority to adminiſter) And alſo all Certificates and other Papers and Vouchers whatſoever: And are by all other ways and means ſo to in<g ref="char:EOLhyphen"/>form themſelves, as may conduce to the beſt and moſt effectual execution of this ſervice. And all Muſter-Ma<g ref="char:EOLhyphen"/>ſters, Commiſſaries, Treaſurers, Receivers, Paymaſters, and other Officers and perſons as aforeſaid, are hereby required to give obedience
+<pb n="9" facs="tcp:132716:5"/>to every ſuch Warrant accordingly: And the Committee for taking the Accompts of the whole Kingdom are alſo hereby Ordered to be ayding and aſsiſting to the ſaid Committee by this Ordinance Ordained, in giving them or any two or more of them ac<g ref="char:EOLhyphen"/>ceſs and free leave to ſee and peruſe any Accompts, Books or Vouchers remaining in their cuſtody, when and ſo often as the ſaid Committee ſhall have occaſion to make uſe thereof in order to this ſervice. And the ſaid Committee hereby Ordained, or any two of them ſhall have power, and are hereby authorized to adminiſter an Oath as they ſhall ſee cauſe, to all Officers and Soldiers who ſhall make their addreſſes to them for the ſtating and determining their Ac<g ref="char:EOLhyphen"/>compts, according to this Ordinance and the Inſtructions therein men<g ref="char:EOLhyphen"/>tioned (or to any perſon who may be concerned in any ſuch Accompt, or is enabled to give any evidence for
+<pb n="10" facs="tcp:132716:6"/>clearing the truth thereof:) The te<g ref="char:EOLhyphen"/>nor of which Oath ſhall be as fol<g ref="char:EOLhyphen"/>loweth; <hi>Viz.</hi>
+            </p>
+            <p>
+               <q>
+                  <hi>I <hi>A. B.</hi> do ſwear, That I ſhall according to my beſt knowledge, give in to this Com<g ref="char:EOLhyphen"/>mittee a juſt and true Accompt of all and every ſum and ſums of Money by me (or by my appointment, or to uſe) received for my Pay, or otherwiſe in Money or Goods, in order to the ſervice of the State, by vertue of any Order or Ordinance of both or either of the Houſes of Parliament, or by colour or pretence of any ſuch Order or Ordinance, or for which I am any way chargeable or ac<g ref="char:EOLhyphen"/>comptable, without any concealment what<g ref="char:EOLhyphen"/>ſoever: So help me God.</hi>
+               </q>
+            </p>
+            <p>And the ſaid Committee, or any three of them ſhall have power, and are hereby authorized to give out De<g ref="char:EOLhyphen"/>benters under their Hands to the ſaid Officers and Soldiers, for ſo much Money as ſhall appear to them to be due upon their Accompts, allowed and determined according to the ſaid
+<pb n="11" facs="tcp:132716:6"/>Inſtructions and this preſent Ordi<g ref="char:EOLhyphen"/>nance; which Accompts and Deben<g ref="char:EOLhyphen"/>ters ſhall be fairly Entred and Re<g ref="char:EOLhyphen"/>giſtred into a Book or Books to be kept for that purpoſe by the Regiſter Accomptant, who ſhall atteſt under his Hand as Regiſter, the Entry of every Debenter to be given forth by the ſaid Committee as aforeſaid, be<g ref="char:EOLhyphen"/>fore the ſame be delivered to the par<g ref="char:EOLhyphen"/>ties therein concerned, whom the ſaid Committee have hereby power to appoint, being one of themſelves. And it is hereby Ordained and De<g ref="char:EOLhyphen"/>clared, That all Officers and Sol<g ref="char:EOLhyphen"/>diers that ſhall receive Debenters from the ſaid Committee as afore<g ref="char:EOLhyphen"/>ſaid, may ſell, aſsign and ſet over the Moneys due upon thoſe Debenters to ſuch perſons as they ſhall think fit; and all ſuch perſon and perſons to whom ſuch Moneys ſo due ſhall be aſsigned, ſet over and ſold, have here<g ref="char:EOLhyphen"/>by power and authority to demand and receive the ſame, as if the ſaid
+<pb n="12" facs="tcp:132716:7"/>Debenters were in their own Name or Names: Provided, That every ſuch aſsignment be firſt ſhewed to the ſaid Committee, and an Entry there<g ref="char:EOLhyphen"/>of made by their Regiſter to be by them appointed as aforeſaid, to the end it may be the better known to whom the State is indebted. And it is hereby further Ordained and Declared, That for the Moneys as ſhall appear to be due by ſuch Deben<g ref="char:EOLhyphen"/>ters as ſhall be ſo Signed, Regiſtred and given out by the ſaid Commit<g ref="char:EOLhyphen"/>tee as aforeſaid, The State ſhall be lyable to the payment thereof to the ſaid Officers, Soldiers, or their Wi<g ref="char:EOLhyphen"/>dows or Orphans, and the ſame ſhall be paid and ſatisfied out of Two third parts of the Lands and Eſtate of all Delinquents mentioned and comprehended in the three firſt Qua<g ref="char:EOLhyphen"/>lifications of the Propoſitions for Delinquents, ſent to the King into the Iſle of <hi>Wight,</hi> not formerly diſ<g ref="char:EOLhyphen"/>poſed of, or the Fines that ſhall be ſet
+<pb n="13" facs="tcp:132716:7"/>upon thoſe Delinquents by the Hou<g ref="char:EOLhyphen"/>ſes, and alſo out of the Moneys ari<g ref="char:EOLhyphen"/>ſing out of the remaining part of all the Lands and Revenues of all the late Archbiſhops and Biſhops of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Wales,</hi> appointed to be ſold by ſeveral former Ordinances, after ſuch Engagements ſatisfied as are already charged thereupon: Provi<g ref="char:EOLhyphen"/>ded always, That if any ſurcharge can be brought upon any Accompt whatſoever, made and ſtated by the ſaid Committee, within two years next after Debenters ſhall be given as aforeſaid, That then defalkation ſhall be made thereof out of the ſaid Debenter, ſo as it do not exceed one third part of the whole Debenter: And it is hereby further Ordained, That in caſe any doubt or difficulty ſhall at any time ariſe in ſtating of any the Accompts beforementioned, ſo as the ſaid Committee cannot clearly proceed to the determination thereof according to the ſaid Inſtru<g ref="char:EOLhyphen"/>ctions,
+<pb n="14" facs="tcp:132716:8"/>Then in every ſuch caſe the ſaid Committee may make their ad<g ref="char:EOLhyphen"/>dreſſes to the Committee of the Ar<g ref="char:EOLhyphen"/>my, for their advice and direction therein, which they are hereby requi<g ref="char:EOLhyphen"/>red and authorized to give according<g ref="char:EOLhyphen"/>ly, as to their beſt diſcretions ſhall ſeem meet; which Direction by way of Order, ſhall be a ſufficient Rule and Warrant for the ſaid Committee (by this Ordinance nominated and appointed) to proceed by, to the allow<g ref="char:EOLhyphen"/>ance and determination of all ſuch Accompts accordingly. And it is hereby further Ordained and Decla<g ref="char:EOLhyphen"/>red by the authority aforeſaid, That the ſaid Committee or any two of them have power and authority to adminiſter to the ſaid Regiſter Ac<g ref="char:EOLhyphen"/>comptant, and to the ſeveral Clerks, Meſſengers, or other neceſſary of<g ref="char:EOLhyphen"/>ficers and perſons by them to be im<g ref="char:EOLhyphen"/>ployed in and about the ſaid ſervice, an Oath for their and every of their faithful demeanor, The tenor of
+<pb n="15" facs="tcp:132716:8"/>which Oath ſhal be as followeth, <hi>Viz.</hi>
+            </p>
+            <p>
+               <q>
+                  <hi>I <hi>A.B.</hi> do ſwear, That according to my beſt skill and judgement, I ſhall faithfully, and diligently and truly demean my ſelf in the Office of <gap reason="blank" extent="1 span">
+                        <desc>〈1 span left blank〉</desc>
+                     </gap> wherein I ſhall be imployed by this Committee: So help me God.</hi>
+               </q>
+            </p>
+            <p>And it is laſtly Ordained, That the ſaid Committee or any three of them ſhall have power and authority to ſtate, audite and determine the Ac<g ref="char:EOLhyphen"/>compts of all ſuch Officers and Sol<g ref="char:EOLhyphen"/>diers (as ſhall be referred to them by the Committee of the Lords and Commons for the Army) that have been of the Army under the com<g ref="char:EOLhyphen"/>mand of <hi>Thomas</hi> Lord <hi>Fairfax,</hi> for ſer<g ref="char:EOLhyphen"/>vices by them done in other Com<g ref="char:EOLhyphen"/>mands then of the ſaid Army, and to return the ſame Accompt ſo ſtated to the ſaid Committee. And the ſaid Lords and Commons do further Ordain and Command, as well all
+<pb n="16" facs="tcp:132716:9"/>Majors, Sheriffs, Iuſtices of the Peace, Conſtables, and other Offi<g ref="char:EOLhyphen"/>cers and Miniſters of Iuſtice, as alſo all Colonels, Captains, and other Officers and Soldiers under the command of the Parliament, to be ayding and aſsiſting to the Commit<g ref="char:EOLhyphen"/>tee in the due execution of this Ordi<g ref="char:EOLhyphen"/>nance. And it is laſtly Ordained by the ſaid Lords and Commons, That the Committee and every one of them and their Clerks and other Officers to be imployed in and about the ſaid ſervice, according to the tenor and effect of this preſent Ordinance, ſhall be therein protected and ſaved harm<g ref="char:EOLhyphen"/>leſs by the power and authority of both Houſes of Parliament.</p>
+            <closer>
+               <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="affidavit">
+            <opener>
+               <dateline>
+                  <date>29 Auguſti, 1648.</date>
+               </dateline>
+            </opener>
+            <p>THe Committee herein abovenamed were ſeverally ſworn before me the day aforeſaid,</p>
+            <closer>
+               <signed>
+                  <hi>William Lenthal</hi> Speaker.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
